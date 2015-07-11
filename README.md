@@ -1,5 +1,5 @@
 # C048
-JOin the coole CSE guys from IIT Indore and find the Coolest !
+Join the cool CSE guys from IIT Indore and find the Coolest !
 
 ##Customize yourself
 If you want to customize for your friends follow these steps: 
